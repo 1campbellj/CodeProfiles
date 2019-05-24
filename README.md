@@ -10,6 +10,6 @@ More than 14 years after its creation, we were very much inspired by this very n
 
 ```
 git clone https://github.com/DIVERSIFY-project/CodeProfiles.git
-mvn test
+mvn package
 appletviewer CodeProfiles.html
 ```
